@@ -23,3 +23,8 @@ A basic web-based TODO list application built with Django.
    ```bash
    git clone https://github.com/vinitapatidar21/django-todo.git
    cd django-todo
+## 🖼️ Project Screenshot
+
+<img width="100%" src="https://github.com/user-attachments/assets/11aeb59a-6276-4567-b7cf-f5b018762e83" alt="Project Screenshot" />
+
+
